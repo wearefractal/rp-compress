@@ -46,12 +46,10 @@ Input (396 chars)
 testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
 ```
 
-Output (36 chars)
+Output (37 chars)
 
 ```
-                                                                     
-     tste
-
+'\u0000\u000b\n\u0004\n\t\b\t\b\b\b\u0007\u0007\u0007\u0006\u0006\u0006\u0005\u0005\u0005\u0004\u0004\u0004\u0003\u0003\u0003\u0002t\u0002\u0001s\u0001te\u0000\u000b\u0003'
 ```
 
 ### Lyrics
@@ -135,10 +133,23 @@ Never gonna say goodbye
 Never gonna tell a lie and hurt you
 ```
 
-Output (336 chars)
+Output (813 chars)
 
 ```
-(Github refusing to render this - will base64 and post later)
+þaýüûü#ûúùú¥ùø÷øGo÷öõöttõôóô,óòñòuñðïðïaîíìíeìë'vêéèéèçæç§zæåäåoäãâãâáàáàßÞßhÞÝÜÝrÜÛÚÛ$ÚÙØÙ&Ø×Ö× bÖÕÔÕutÔÓÒÓÒÑÐÑshÐÏÎÏy ÎÍÌÍ(ÌËÊËÊÉÈÉnsÈÇÆÇidÆÅÄwÄÃÂbÂÁÀÁoÀ¿¾¿ ¾½¼½¼»º»nº¹¸¹n¸·¶·¶µ´µe´³²³a²±°±m)°¯®¯we®­¬­e¬«ª«ª©¨©pl¨§ ¦¥¤¤££¢z¢¡¡h" welost&
+s&thao ch
+Wr eamI'bt
+I%t'eeit'r/"{ oZ~~L}}q||x{
+Yz fxgq`#g0_`^_)]^\X]h[\JF[urZ
+NXVVTUUSTRCS>QRPdQ<OP-@O:MNaM8KLiKHJvH,EFupEcBCnBr?@?y=>.$=;<r;(9:6497827o565d34de3b12s1ye0li/kn.ru-le,++*k*ma(s&i%s $a#!" !tn l aythgel nd
+vy  Ne nna oerou gWenra%ve .-%dI
+Azulcommmen inkf wldn'tei%from any§uy juswþý
+î/ê
+Aif ask ¥Don'#m
+                 b0s¦
+îê
+ juswþý¦
+
 ```
 
 ## LICENSE
